@@ -1,0 +1,249 @@
+@media all and (max-width:1280px){
+    .logo {
+        width: 17%;
+    }
+    .logo h2 {
+        margin-left: 46px;
+        font-size: 22px;
+    }
+    .menu {
+        width: 75%;
+    }
+    .text p {
+        font-size: 13px;
+    }
+}
+@media all and (max-width:1216px){
+    .item p {
+        font-size: 12px;
+    }
+    .item h1 {
+        margin-top: 20px;
+        font-size: 22px;
+    }
+    .item i {
+        font-size: 38px;
+    }
+}
+@media all and ( max-width:1172px){
+    .logo {
+        width: 20%;
+    }
+    .img img {
+        width: 455px;
+    }
+}
+@media all and ( max-width:1118px){
+    .defult {
+        margin-left: 113px;
+    }
+    .defult1 {
+        margin-left: -94px;
+    }
+    .defult2 {
+        margin-left: -79px;
+    }
+}
+@media all and (max-width:1030px){
+    .menu {
+        margin-right: 10px;
+    }
+    .text {
+        width: 100%;
+        text-align: center;
+    }
+    .text {
+        text-align-last: center;
+    }
+    .img {
+        width: 100%;
+    }
+    .text p {
+        text-align-last: center;
+    }
+}
+@media all and (max-width:1002px){
+    .logo h2 {
+        margin-left: 10px;
+    }
+    .banner {
+        padding: 115px 0;
+    }
+    .banner h1 {
+        font-size: 37px;
+    }
+    .banner h3 {
+        font-size: 15px;
+    }
+}
+@media all and (max-width:950px){
+    .item {
+        width: 50%;
+    }
+    .about p {
+        margin-top: 14px;
+        margin-bottom: 30px;
+        font-size: 15px;
+    }
+    .about h1 {
+        margin-top: 35px;
+        font-size: 32px;
+    }
+    .defult {
+        margin-left: 81px;
+    }
+    .defult1 {
+        margin-left: -69px;
+    }
+}
+@media all and (max-width:920px){
+    .about p {
+        width: 80%;
+        margin: auto;
+    }
+    .about h1 {
+        font-size: 26px;
+    }
+    .contact h1 {
+        font-size: 26px;
+    }
+}
+@media all and (max-width:850px){
+    .defult2 {
+        margin-left: 0;
+    }
+    .defult1 {
+        margin-left: 0;
+    }
+    .defult {
+        margin-left: 0;
+    }
+    .content {
+        width: 100%;
+    }
+}
+@media all and (max-width:824px){
+    .menu {
+        width: 100%;
+        text-align: center;
+        margin-top: 12px;
+    }
+    .logo {
+        width: 100%;
+        text-align: center;
+    }
+    .service h1 {
+        margin-top: 42px;
+        font-size: 28px;
+    }
+    .service p {
+        margin-top: 10px;
+    }
+}
+@media all and (max-width:756px){
+    .item i {
+        font-size: 28px;
+    }
+    .service h1 {
+        margin-top: 18px;
+        font-size: 22px;
+    }
+}
+@media all and (max-width:690px){
+    .about p {
+        margin-top: 10px;
+        font-size: 12px;
+    }
+    .about h1 {
+        margin-top: 18px;
+        font-size: 27px;
+    }
+}
+@media all and (max-width:604px){
+    .banner h1 {
+        font-size: 28px;
+    }
+    .btndflt {
+        font-size: 12px;
+        margin-top: 16px;
+    }
+    .service h1 {
+        margin-top: 30px;
+        font-size: 24px;
+    }
+    .service p {
+        font-size: 12px;
+    }
+    .contact h1 {
+        font-size: 24px;
+    }
+    .contact p {
+        font-size: 13px;
+    }
+}
+@media all and (max-width:494px){
+    .menu ul li {
+        padding: 0 3px;
+    }
+    .menu {
+        margin-right: 0px;
+    }
+    .logo h2 {
+        margin-left: 0px;
+    }
+    .service h1 {
+        margin-top: 16px;
+        font-size: 24px;
+    }
+    .item {
+        width: 100%;
+    }
+    .about h1 {
+        font-size: 20px;
+    }
+}
+@media all and (max-width:470px){
+    .contact h1 {
+        font-size: 20px;
+    }
+    .contact p {
+        font-size: 10px;
+    }
+
+}
+@media all and (max-width:410px){
+    .menu ul li {
+        display: block;
+        padding: 0 10px;
+    }
+    .btndflt {
+        font-size: 9px;
+        margin-top: 8px;
+    }
+    .banner h3 {
+        font-size: 12px;
+        margin-top: 11px;
+    }
+    .banner h1 {
+        font-size: 24px;
+    }
+    .banner {
+        padding: 60px 0;
+    }
+    .service p {
+        width: 60%;
+        margin: auto;
+    }
+    .about h1 {
+        margin-top: 18px;
+        font-size: 25px;
+    }
+    .about p {
+        font-size: 10px;
+    }
+    .content {
+        margin-top: 0;
+        margin-bottom: 10px;
+    }
+    
+}
